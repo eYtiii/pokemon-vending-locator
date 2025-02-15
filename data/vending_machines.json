@@ -1,32 +1,197 @@
 [
-    { "retailer": "Frys", "machine_id": "Q00350", "address": "150 E Old West Hwy", "city_state": "Apache Junction, AZ" },
-    { "retailer": "Frys", "machine_id": "Q00351", "address": "1575 N Dysart Rd", "city_state": "Avondale, AZ" },
-    { "retailer": "Frys", "machine_id": "Q00607", "address": "11425 W Buckeye Rd", "city_state": "Avondale, AZ" },
-    { "retailer": "Frys", "machine_id": "Q00352", "address": "1300 S Watson Rd", "city_state": "Buckeye, AZ" },
-    { "retailer": "Frys", "machine_id": "Q00373", "address": "19600 W Indian School Rd", "city_state": "Buckeye, AZ" },
-    { "retailer": "Frys", "machine_id": "Q00339", "address": "1385 E Florence Blvd", "city_state": "Casa Grande, AZ" },
-    { "retailer": "Frys", "machine_id": "Q00606", "address": "2858 N Pinal Ave", "city_state": "Casa Grande, AZ" },
-    { "retailer": "Safeway", "machine_id": "Q01342", "address": "1637 N Trekell Rd", "city_state": "Casa Grande, AZ" },
-    { "retailer": "Frys", "machine_id": "Q00599", "address": "2010 S Alma School Rd", "city_state": "Chandler, AZ" },
-    { "retailer": "Frys", "machine_id": "Q00614", "address": "2929 E Ocotillo Rd", "city_state": "Chandler, AZ" },
-    { "retailer": "Safeway", "machine_id": "Q01283", "address": "1159 W Chandler Blvd", "city_state": "Chandler, AZ" },
-    { "retailer": "Safeway", "machine_id": "Q01312", "address": "1060 E Ray Rd", "city_state": "Chandler, AZ" },
-    { "retailer": "Albertsons", "machine_id": "Q01319", "address": "3145 S Alma School Rd", "city_state": "Chandler, AZ" },
-    { "retailer": "Safeway", "machine_id": "Q01392", "address": "3325 N Hunt Hwy", "city_state": "Florence, AZ" },
-    { "retailer": "Frys", "machine_id": "Q00321", "address": "855 W Warner Rd", "city_state": "Gilbert, AZ" },
-    { "retailer": "Frys", "machine_id": "Q00356", "address": "87 E Williams Field Rd", "city_state": "Gilbert, AZ" },
-    { "retailer": "Frys", "machine_id": "Q00374", "address": "714 S Val Vista Dr", "city_state": "Gilbert, AZ" },
-    { "retailer": "Frys", "machine_id": "Q00605", "address": "3127 E Chandler Heights Rd", "city_state": "Gilbert, AZ" },
-    { "retailer": "Frys", "machine_id": "Q01103", "address": "1845 E Baseline Rd", "city_state": "Gilbert, AZ" },
-    { "retailer": "Frys", "machine_id": "Q00609", "address": "20220 N 59th Ave", "city_state": "Glendale, AZ" },
-    { "retailer": "Frys", "machine_id": "Q00775", "address": "5116 W Olive Ave", "city_state": "Glendale, AZ" },
-    { "retailer": "Frys", "machine_id": "Q00776", "address": "4329 W Northern Ave", "city_state": "Glendale, AZ" },
-    { "retailer": "WinCo Foods", "machine_id": "Q01397", "address": "5850 West Bell Road", "city_state": "Glendale, AZ" },
-    { "retailer": "Frys", "machine_id": "Q00616", "address": "16380 W Yuma Rd", "city_state": "Goodyear, AZ" },
-    { "retailer": "Safeway", "machine_id": "Q01289", "address": "440 N Estrella Pkwy", "city_state": "Goodyear, AZ" },
-    { "retailer": "Safeway", "machine_id": "Q01311", "address": "14175 W Indian School Rd", "city_state": "Goodyear, AZ" },
-    { "retailer": "Safeway", "machine_id": "Q01358", "address": "9890 S Estrella Pkwy", "city_state": "Goodyear, AZ" },
-    { "retailer": "Frys", "machine_id": "Q00598", "address": "5140 W Baseline Rd", "city_state": "Laveen, AZ" },
-    { "retailer": "Safeway", "machine_id": "Q01290", "address": "5035 W Baseline Rd", "city_state": "Laveen, AZ" },
-    { "retailer": "Frys", "machine_id": "Q00367", "address": "13730 W Camelback Rd", "city_state": "Litchfield Park, AZ" }
-]
+  {
+    "retailer": "Frys",
+    "machine_id": "Q00318",
+    "address": "3616 E Ray Rd",
+    "city": "Phoenix",
+    "state": "AZ",
+    "lat": 33.3208,
+    "lng": -112.0078
+  },
+  {
+    "retailer": "Frys",
+    "machine_id": "Q00333",
+    "address": "1815 W Glendale Ave",
+    "city": "Phoenix",
+    "state": "AZ",
+    "lat": 33.5387,
+    "lng": -112.0970
+  },
+  {
+    "retailer": "Frys",
+    "machine_id": "Q00337",
+    "address": "520 E Baseline Rd",
+    "city": "Phoenix",
+    "state": "AZ",
+    "lat": 33.3785,
+    "lng": -112.0667
+  },
+  {
+    "retailer": "Frys",
+    "machine_id": "Q00346",
+    "address": "3949 E Chandler Blvd",
+    "city": "Phoenix",
+    "state": "AZ",
+    "lat": 33.3052,
+    "lng": -111.9965
+  },
+  {
+    "retailer": "Frys",
+    "machine_id": "Q00349",
+    "address": "4025 E Thunderbird Rd",
+    "city": "Phoenix",
+    "state": "AZ",
+    "lat": 33.6116,
+    "lng": -111.9943
+  },
+  {
+    "retailer": "Frys",
+    "machine_id": "Q00353",
+    "address": "26300 Norterra Pkwy",
+    "city": "Phoenix",
+    "state": "AZ",
+    "lat": 33.7262,
+    "lng": -112.1169
+  },
+  {
+    "retailer": "Frys",
+    "machine_id": "Q00357",
+    "address": "1311 E Bell Rd",
+    "city": "Phoenix",
+    "state": "AZ",
+    "lat": 33.6403,
+    "lng": -112.0540
+  },
+  {
+    "retailer": "Frys",
+    "machine_id": "Q00359",
+    "address": "3246 E Bell Rd",
+    "city": "Phoenix",
+    "state": "AZ",
+    "lat": 33.6403,
+    "lng": -112.0130
+  },
+  {
+    "retailer": "Frys",
+    "machine_id": "Q00361",
+    "address": "4230 W McDowell Rd",
+    "city": "Phoenix",
+    "state": "AZ",
+    "lat": 33.4650,
+    "lng": -112.1500
+  },
+  {
+    "retailer": "Frys",
+    "machine_id": "Q00363",
+    "address": "39508 N Daisy Mountain Dr",
+    "city": "Phoenix",
+    "state": "AZ",
+    "lat": 33.8490,
+    "lng": -112.1350
+  },
+  {
+    "retailer": "Frys",
+    "machine_id": "Q00364",
+    "address": "744 W Camelback Rd",
+    "city": "Phoenix",
+    "state": "AZ",
+    "lat": 33.5097,
+    "lng": -112.0830
+  },
+  {
+    "retailer": "Frys",
+    "machine_id": "Q00365",
+    "address": "100 E Jefferson St",
+    "city": "Phoenix",
+    "state": "AZ",
+    "lat": 33.4461,
+    "lng": -112.0720
+  },
+  {
+    "retailer": "Frys",
+    "machine_id": "Q00369",
+    "address": "3036 E Thomas Rd",
+    "city": "Phoenix",
+    "state": "AZ",
+    "lat": 33.4803,
+    "lng": -112.0197
+  },
+  {
+    "retailer": "Frys",
+    "machine_id": "Q00371",
+    "address": "4204 W Cactus Rd",
+    "city": "Phoenix",
+    "state": "AZ",
+    "lat": 33.5950,
+    "lng": -112.1500
+  },
+  {
+    "retailer": "Frys",
+    "machine_id": "Q00375",
+    "address": "3511 W Peoria Ave",
+    "city": "Phoenix",
+    "state": "AZ",
+    "lat": 33.5806,
+    "lng": -112.1347
+  },
+  {
+    "retailer": "Frys",
+    "machine_id": "Q00377",
+    "address": "4724 N 20th St",
+    "city": "Phoenix",
+    "state": "AZ",
+    "lat": 33.5060,
+    "lng": -112.0380
+  },
+  {
+    "retailer": "Frys",
+    "machine_id": "Q00379",
+    "address": "4707 E Shea Blvd",
+    "city": "Phoenix",
+    "state": "AZ",
+    "lat": 33.5820,
+    "lng": -111.9780
+  },
+  {
+    "retailer": "Frys",
+    "machine_id": "Q00382",
+    "address": "4505 E Thomas Rd",
+    "city": "Phoenix",
+    "state": "AZ",
+    "lat": 33.4803,
+    "lng": -111.9830
+  },
+  {
+    "retailer": "Frys",
+    "machine_id": "Q00733",
+    "address": "2250 E Baseline Rd",
+    "city": "Phoenix",
+    "state": "AZ",
+    "lat": 33.3785,
+    "lng": -111.9730
+  },
+  {
+    "retailer": "Frys",
+    "machine_id": "Q00756",
+    "address": "2800 W Dove Valley Rd",
+    "city": "Phoenix",
+    "state": "AZ",
+    "lat": 33.7920,
+    "lng": -112.1210
+  },
+  {
+    "retailer": "Safeway",
+    "machine_id": "Q01282",
+    "address": "4005 E Chandler Blvd",
+    "city": "Phoenix",
+    "state": "AZ",
+    "lat": 33.3052,
+    "lng": -111.9943
+  },
+  {
+    "retailer": "Safeway",
+    "machine_id": "Q01292",
+    "address":
+::contentReference[oaicite:0]{index=0}
+ 
+
