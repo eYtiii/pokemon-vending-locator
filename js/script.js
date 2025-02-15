@@ -9,7 +9,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 // Load vending machine data
-fetch('../data/vending_machines.json')
+fetch('/data/vending_machines.json')
     .then(response => response.json())
     .then(data => {
         vendingMachines = data;
